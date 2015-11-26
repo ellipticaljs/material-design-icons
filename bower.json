@@ -1,7 +1,7 @@
 {
   "name": "md-icons",
   "description": "Material Design Icons",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "main": "dist/material.css",
   "authors": [
     "S. Francis"
@@ -19,6 +19,12 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "_index.scss",
+    "gulpfile.js",
+    "docs",
+    "stylesheets",
+    "package.json",
+    ".gitignore"
   ]
 }
