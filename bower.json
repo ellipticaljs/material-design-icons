@@ -1,7 +1,7 @@
 {
   "name": "md-icons",
   "description": "Material Design Icons",
-  "version":"1.0.5",
+  "version":"1.0.6",
   "main": "dist/material.css",
   "authors": [
     "S. Francis"

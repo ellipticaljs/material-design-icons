@@ -24,6 +24,7 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+
 .icon-enhanced-encryption:before {
 	content: "\e900";
 }
@@ -114,7 +115,7 @@
 .icon-watch-later:before {
 	content: "\e91d";
 }
-.icon-ic_date_range_24px:before {
+.icon-date-range:before {
 	content: "\e91e";
 }
 .icon-3d-rotation:before {
@@ -2388,4 +2389,5 @@
 .icon-star-outline:before {
 	content: "\e8f4";
 }
+
 
